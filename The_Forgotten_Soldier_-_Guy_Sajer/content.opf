@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Brassey's</dc:publisher>
+    <meta name="calibre:series_index" content="1"/>
+    <meta name="calibre:rating" content="8.00"/>
+    <dc:description>SUMMARY:
+This book recountsthe horror of World War II on the eastern front, as seen through the eyes of a teenaged German soldier. At first an exciting adventure, young Guy Sajer's war becomes, as the German invasion falters in the icy vastness of the Ukraine, a simple, desperate struggle for survival against cold, hunger, and above all the terrifying Soviet artillery. As a member of the elite Gross Deutschland Division, he fought in all the great battles from Kursk to Kharkov. His German footsoldier's perspective makes The Forgotten Soldiera unique war memoir, the book that the Christian Science Monitorsaid "may well be the book about World War II which has been so long awaited." Now it has been handsomely republished as a hardcover containing fifty rare German combat photos of life and death at the eastern front. The photos of troops battling through snow, mud, burned villages, and rubble-strewn cities depict the hardships and destructiveness of war. Many are originally from the private collections of German soldiers and have never been published before. This volume is a deluxe edition of a true classic.</dc:description>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Sajer, Guy" opf:role="aut">Guy Sajer</dc:creator>
+    <meta name="calibre:timestamp" content="2010-10-15T17:55:28.481000+00:00"/>
+    <dc:title>The Forgotten Soldier</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2001-10-02T18:10:42.705000+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.23) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9781574882865</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">97437c2c-0152-4314-8ee8-88f0dd2a38dc</dc:identifier>
+    <dc:subject>Europe</dc:subject>
+    <dc:subject>Autobiography</dc:subject>
+    <dc:subject>European history</dc:subject>
+    <dc:subject>World War II</dc:subject>
+    <dc:subject>Biography: Historical; Political &amp; Military</dc:subject>
+    <dc:subject>Historical - General</dc:subject>
+    <dc:subject>World War; 1939-1945</dc:subject>
+    <dc:subject>Military life &amp; institutions</dc:subject>
+    <dc:subject>Military - World War II</dc:subject>
+    <dc:subject>Europe - Germany</dc:subject>
+    <dc:subject>Biography: general</dc:subject>
+    <dc:subject>Second World War</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Biography: historical</dc:subject>
+    <dc:subject>Germany</dc:subject>
+    <dc:subject>Historical</dc:subject>
+    <dc:subject>Soldiers</dc:subject>
+    <dc:subject>BIOGRAPHY &amp; AUTOBIOGRAPHY</dc:subject>
+    <dc:subject>Military</dc:subject>
+    <dc:subject>Biography</dc:subject>
+    <dc:subject>History</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="Forgotten_Soldier_split_000.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Forgotten_Soldier_split_001.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Forgotten_Soldier_split_002.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Forgotten_Soldier_split_003.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Forgotten_Soldier_split_004.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Forgotten_Soldier_split_005.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Forgotten_Soldier_split_006.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Forgotten_Soldier_split_007.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Forgotten_Soldier_split_008.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Forgotten_Soldier_split_008.html#filepos1343615" type="toc" title="Table of Contents"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>
